@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dev\\Desktop\\clinicaVeterinaria\\clinicaVeterinaria\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66210DBF-0908-4B50-B4C7-C0DA7F58E523}|clinicaVeterinaria.csproj|c:\\users\\dev\\desktop\\clinicaveterinaria\\clinicaveterinaria\\formularios\\adicionar_consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{66210DBF-0908-4B50-B4C7-C0DA7F58E523}|clinicaVeterinaria.csproj|solutionrelative:formularios\\adicionar_consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66210DBF-0908-4B50-B4C7-C0DA7F58E523}|clinicaVeterinaria.csproj|c:\\users\\dev\\desktop\\clinicaveterinaria\\clinicaveterinaria\\formularios\\adicionar_animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{66210DBF-0908-4B50-B4C7-C0DA7F58E523}|clinicaVeterinaria.csproj|solutionrelative:formularios\\adicionar_animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66210DBF-0908-4B50-B4C7-C0DA7F58E523}|clinicaVeterinaria.csproj|c:\\users\\dev\\desktop\\clinicaveterinaria\\clinicaveterinaria\\formularios\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{66210DBF-0908-4B50-B4C7-C0DA7F58E523}|clinicaVeterinaria.csproj|solutionrelative:formularios\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Adicionar_animal.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\clinicaVeterinaria\\clinicaVeterinaria\\Formularios\\Adicionar_animal.cs",
+              "RelativeDocumentMoniker": "Formularios\\Adicionar_animal.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\clinicaVeterinaria\\clinicaVeterinaria\\Formularios\\Adicionar_animal.cs [Design]",
+              "RelativeToolTip": "Formularios\\Adicionar_animal.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T16:12:55.171Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\clinicaVeterinaria\\clinicaVeterinaria\\Formularios\\Form1.cs",
+              "RelativeDocumentMoniker": "Formularios\\Form1.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\clinicaVeterinaria\\clinicaVeterinaria\\Formularios\\Form1.cs [Design]",
+              "RelativeToolTip": "Formularios\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T15:57:39.145Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Adicionar_consulta.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\clinicaVeterinaria\\clinicaVeterinaria\\Formularios\\Adicionar_consulta.cs",
+              "RelativeDocumentMoniker": "Formularios\\Adicionar_consulta.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\clinicaVeterinaria\\clinicaVeterinaria\\Formularios\\Adicionar_consulta.cs [Design]",
+              "RelativeToolTip": "Formularios\\Adicionar_consulta.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T15:28:27.575Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
