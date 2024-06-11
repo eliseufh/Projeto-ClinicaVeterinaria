@@ -12,7 +12,7 @@ namespace clinicaVeterinaria
         private const string server = "localhost";
         private const string bd = "clinica_veterinaria";
         private const string user = "root";
-        private const string password = "790374";
+        private const string password = "";
 
         static public string strConexao = $"server={server}; uid={user}; database={bd}; password={password};";
     }
